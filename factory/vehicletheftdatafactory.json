@@ -1,0 +1,9 @@
+{
+	"name": "vehicletheftdatafactory",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c89a3056-6fb9-4bcd-9542-34c5644f34d8",
+		"tenantId": "2b9cfba4-7dd0-4c49-aca5-d37c321064c9"
+	}
+}
